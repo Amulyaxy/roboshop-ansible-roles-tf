@@ -1,0 +1,10 @@
+MONGODB_HOST: mongodb-prod.aws-prodops.website
+REDIS_HOST: redis-prod.aws-prodops.website
+CATALOGUE_HOST: catalogue-prod.aws-prodops.website
+CART_HOST: cart-prod.aws-prodops.website
+USER_HOST: user-prod.aws-prodops.website
+SHIPPING_HOST: shipping-prod.aws-prodops.website
+PAYMENT_HOST: payment-prod.aws-prodops.website
+RABBITMQ_HOST: rabbitmq-prod.aws-prodops.website
+DISPATCH_HOST: dispatch-prod.aws-prodops.website
+MYSQL_HOST: mysql-prod.aws-prodops.website
